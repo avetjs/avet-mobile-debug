@@ -1,2 +1,3 @@
-# avet-mobile-debugger
-Mobile debugger 
+# avet-mobile-debug
+
+Mobile debug
